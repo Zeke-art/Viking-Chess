@@ -14,4 +14,6 @@ and have game logic that follows all the rules of Viking Chess
 the bare essentials of this project is to have shapes of varying colors, two players, to move within a grid and to disappear when it is in a certain position
 
 ## Mile Stones
-
+1. create basic graphical game board with different piecess
+2. create point and click functionality to select and move pieces like online chess
+3. create game logic that determains when pieces die, and when players win
